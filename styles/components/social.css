@@ -1,0 +1,4 @@
+img {
+  transition-property: width; 
+  transition-duration: 1s;
+}
